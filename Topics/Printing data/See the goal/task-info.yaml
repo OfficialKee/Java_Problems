@@ -4,16 +4,19 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 23
+        length: 4
         placeholder_text: type your solution here
         initial_state:
-          length: 23
+          length: 4
           offset: 0
         initialized_from_dependency: false
-        selected: false
+        selected: true
         status: Solved
     text: type your solution here
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/26366#comment
 status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 18 Oct 2023 14:18:53 UTC"
 record: -1
