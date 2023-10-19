@@ -1,0 +1,40 @@
+type: matching
+captions:
+  - a + b
+  - a - b
+  - a * b
+  - a / b
+  - a % b
+  - -a
+options:
+  - integer division
+  - unary minus (sign changing)
+  - remainder
+  - multiplication
+  - addition
+  - subtraction
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2209#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 19 Oct 2023 15:47:11 UTC"
+record: -1
+ordering:
+  - 4
+  - 5
+  - 3
+  - 0
+  - 2
+  - 1

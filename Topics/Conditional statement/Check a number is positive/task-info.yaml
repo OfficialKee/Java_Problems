@@ -8,14 +8,11 @@ files:
       class Main {
           public static void main(String[] args) {
               Scanner scanner = new Scanner(System.in);
-              // put your code here
+              // start coding here
           }
       }
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2211#comment
-status: Solved
-feedback:
-  message: <html>Correct solution</html>
-  time: "Thu, 19 Oct 2023 15:12:33 UTC"
+feedback_link: https://hyperskill.org/learn/step/2163#comment
+status: Unchecked
 record: -1
 submission_language: java17

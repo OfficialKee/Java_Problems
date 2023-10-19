@@ -5,6 +5,12 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         // put your code here
         int value = scanner.nextInt();
-        System.out.println(((value+1)* value+2)*value+3);
+
+        if(value%2 == 0){
+            System.out.println(value+2);
+        }
+        else{
+            System.out.println(value+1);
+        }
     }
 }
