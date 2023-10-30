@@ -9,7 +9,7 @@ class MultipleFunction {
     }
 
     public static double f(double x) {
-        //call your implemented methods here. yessirski
+        //call your implemented methods here.
         if(x <= 0){
           return f1(x);
         }
